@@ -8,5 +8,7 @@ so we just put everything in `~/.config/tmux`.
 
 ## Plugins
 
-Use `tpm` as the plugins manager. Uses
+Use `[tpm](https://github.com/tmux-plugins/tpm)` as the plugins manager.
+Clone this repo to `~/.config/tmux/plugins/tpm`. 
+Uses
 1. `tmux-powerline`. 
